@@ -1,0 +1,17 @@
+#wrapper {
+    position:relative;
+    /*border:0px solid;*/
+    max-width : 1000px;
+    min-height: 510px;
+    margin : auto;
+    margin-top:30px;
+    -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
+    -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
+}
+
+#container {
+	width:700px;
+	position:relative;
+	margin:0px auto;
+}
